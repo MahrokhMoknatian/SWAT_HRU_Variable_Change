@@ -1,0 +1,26 @@
+# Don't track content of these folders
+bin/
+obj/
+Inputs/
+Outputs/
+
+# Compiled Sources
+*.exe
+*.so
+*.o
+*.dll
+*.class
+*.com
+
+# Input Sources
+*.fig
+*.hru
+*.sub
+*.sol
+*.gw
+*.layout
+*.depend
+
+
+# Vim Sources
+*.swp
